@@ -1,0 +1,106 @@
+body {
+  padding: 30px;
+  background-color: #E4F9F5;
+}
+
+h1 {
+  padding: 15px;
+  padding-left: 0;
+  border-bottom: outset;
+}
+
+p {
+  font-size: 20px;
+
+
+}
+.index-edison {
+  float: left;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 30px;
+}
+
+.index-frank {
+  float: left;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 30px;
+}
+
+
+
+
+
+
+progress[value] {
+  margin-left: 60px;
+  width: 300px;
+  height: 20px;
+  border-radius: 5px;
+  -webkit-appearance: none;
+   appearance: none;
+
+}
+
+progress::-moz-progress-bar {
+  background: #66BFBF;
+}
+
+progress::-webkit-progress-value {
+  background: #66BFBF;
+}
+
+progress::-webkit-progress-bar {
+  background: black;
+}
+
+.saying-div {
+  margin-top: 40px;
+}
+.seemore {
+  margin-left: 0px;
+}
+
+.progressDiv {
+  margin-bottom: 50px;
+}
+
+.labelProgress {
+  font-size: 15px;
+  margin-left: 310px;
+  margin-top: 5px;
+}
+
+.imgFigure {
+  margin-left: 75px;
+
+
+
+}
+
+.secondFigure {
+  margin-top: 75px;
+  margin-left: 75px;
+}
+
+figcaption {
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+  margin-right: 40px;
+
+
+}
+
+.imgHardwork {
+  border-radius: 20px;
+  display: block;
+
+  width: 90%;
+  height: 90%;
+}
